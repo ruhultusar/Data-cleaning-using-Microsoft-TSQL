@@ -153,3 +153,6 @@ Where row_num > 1
 
 alter table NashvilleHousingData 
 drop column OwnerAddress, TaxDistrict, PropertyAddress, SaleDate;
+
+----------------------------------------------------------------------------------------------------------
+
